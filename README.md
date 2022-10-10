@@ -1,5 +1,5 @@
 # Just having fun
 
-It is just a code to demonstrate MPC's performance with lane constraints. 
+This is just a code to demonstrate MPC's performance with lane constraints. 
 
 I'm just having fun. 
